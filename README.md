@@ -1,7 +1,7 @@
-pullrequest-checker
+clone-ddf-repos
 ===================
 
-Checks all of the repositories for open pull requests and outputs the results.
+Clones all of the DDF repositories hosted by the Codice Foundation on Github.
 
 ## Executing the Script
 ### What you need ###
